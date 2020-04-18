@@ -40,4 +40,8 @@ public class ObserverDemo {
 			super.setChanged();
 		}
 	}
+
+	public void test(){
+
+	}
 }
