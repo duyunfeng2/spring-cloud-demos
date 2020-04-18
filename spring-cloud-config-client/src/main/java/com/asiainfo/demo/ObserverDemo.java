@@ -43,6 +43,6 @@ public class ObserverDemo {
 
 	public void test(){
 		System.out.println("testing...");
-        System.out.println("te22222");
+        System.out.println("te222223333");
 	}
 }
