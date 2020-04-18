@@ -40,4 +40,9 @@ public class ObserverDemo {
 			super.setChanged();
 		}
 	}
+
+	public void test(){
+		System.out.println("testing...");
+        System.out.println("te222223333");
+	}
 }
