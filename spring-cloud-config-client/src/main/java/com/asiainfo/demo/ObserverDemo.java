@@ -42,6 +42,6 @@ public class ObserverDemo {
 	}
 
 	public void test(){
-
+		System.out.println("testing...");
 	}
 }
